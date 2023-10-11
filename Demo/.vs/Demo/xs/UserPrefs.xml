@@ -1,3 +1,37 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{5812C5E8-D4A8-4B68-8EE2-DA3D3470BAA8}|https">
+  <MonoDevelop.Ide.ItemProperties.CleanArch.UI.Mvc.CleanArch.Mvc PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CleanArch.Mvc/appsettings.json">
+    <Files>
+      <File FileName=".vs/Demo/xs/UserPrefs.xml" Line="1" Column="1" />
+      <File FileName="Demo.sln" Line="1" Column="1" />
+      <File FileName="CleanArch.Mvc/appsettings.json" Line="1" Column="1" />
+      <File FileName="CleanArch.Mvc/Program.cs" Line="1" Column="1" />
+      <File FileName="CleanArch.Mvc/app.db" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Demo">
+            <Node name="CleanArch.UI.Mvc" expanded="True">
+              <Node name="CleanArch.Mvc">
+                <Node name="Areas" expanded="True">
+                  <Node name="Identity" expanded="True">
+                    <Node name="Pages" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Controllers" expanded="True" />
+                <Node name="appsettings.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>
